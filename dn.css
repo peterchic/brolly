@@ -1,12 +1,11 @@
-div {
+/*div {
     border: 2px solid red;
     display:inline-block;
     height:250px;
     width:500px;
 
-}
+}*/
 img {
-height:100px;
 width:100px;
 border:1px dotted green;
 padding:5px;
